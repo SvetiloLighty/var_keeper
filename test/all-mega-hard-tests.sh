@@ -1,1 +1,1 @@
-echo All Mega Hard Tests PASS
+echo "All Mega Hard Tests PASS"
